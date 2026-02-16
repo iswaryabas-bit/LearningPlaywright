@@ -1,0 +1,17 @@
+# Logic
+node_modules/
+dist/
+build/
+*.log
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Misc
+.DS_Store
+.env
+.idea/
+.vscode/
