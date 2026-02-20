@@ -5,6 +5,8 @@ This repository contains code and examples for learning Playwright automation.
 ## Project Structure
 
 - `Chapter_01_Basics`: Basic Playwright concepts and examples.
+- `Chapter_02_Core Concepts`: Core capabilities and advanced interactions.
+- `Chapter_03_Identifiers_Literals_Operators`: Variables, data types, and operators in JS/Playwright.
 
 ## Setup
 
